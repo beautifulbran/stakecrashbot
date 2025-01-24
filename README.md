@@ -67,7 +67,6 @@ If you prefer to install the script manually:
 
 ## 🛠 Changelog
 
-- **v1.0**  
 - **Added MIT License**
 - **Added Stakecom-Crash-Bot.user.js project code to repo**
 
