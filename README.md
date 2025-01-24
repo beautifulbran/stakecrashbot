@@ -42,7 +42,7 @@ If you prefer to install the script manually:
    - [Tampermonkey](https://www.tampermonkey.net/)
    - [ViolentMonkey](https://violentmonkey.github.io/get-it/)
 
-2. Download the script file from GitHub:  
+2. Copy the script file from GitHub:  
    👉 **[Stakecom-Crash-Bot.user.js](https://github.com/beautifulbran/stakecrashbot/blob/main/Stakecom-Crash-Bot.user.js)**
 
 3. Copy the code from the .js file, add a new script in your userscript manager and paste it! 
