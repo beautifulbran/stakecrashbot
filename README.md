@@ -1,7 +1,10 @@
 # Stake.com Crash Bot
 
 ![Stake.com Crash Bot](https://img.shields.io/badge/Stake.com-Crash%20Bot-green)  
-Automate your betting strategy on [Stake.com Crash game](https://stake.com/casino/games/crash) with this simple and safe userscript. The bot places a bet every 2 minutes to assist in automating gameplay while avoiding pattern detection.
+Automate your betting strategy on [Stake.com Crash game](https://stake.com/casino/games/crash) with this simple and safe userscript.  
+The bot places a bet every 2 minutes to assist in automating gameplay while avoiding pattern detection.
+
+---
 
 ## 🚀 Features
 
@@ -13,6 +16,8 @@ Automate your betting strategy on [Stake.com Crash game](https://stake.com/casin
 ---
 
 ## 📥 Installation
+
+### Automatic Installation (Recommended)
 
 1. Install a userscript manager of your choice:
    - [Tampermonkey](https://www.tampermonkey.net/) (Chrome/Firefox/Edge)
@@ -29,11 +34,32 @@ Automate your betting strategy on [Stake.com Crash game](https://stake.com/casin
 
 ---
 
+### Manual Installation (GitHub Version)
+
+If you prefer to install the script manually:
+
+1. Install a userscript manager:
+   - [Tampermonkey](https://www.tampermonkey.net/)
+   - [ViolentMonkey](https://violentmonkey.github.io/get-it/)
+
+2. Download the script file from GitHub:  
+   👉 **[Stakecom-Crash-Bot.user.js](https://github.com/beautifulbran/stake-crash-bot/raw/main/Stakecom-Crash-Bot.user.js)**
+
+3. Open the script file and click **"Install"** in your userscript manager.
+
+4. Navigate to the [Stake.com Crash Game](https://stake.com/casino/games/crash).
+
+5. Configure your bet settings manually.
+
+6. The script will automatically place bets every 2 minutes.
+
+---
+
 ## ⚙️ Usage Instructions
 
 1. Ensure you are logged into your Stake.com account.
-2. Navigate to the [Crash game](https://stake.com/casino/games/crash).
-3. Configure your bet settings (amount, payout, etc.).
+2. Open the [Crash game](https://stake.com/casino/games/crash).
+3. Configure your bet amount and payout.
 4. The script will automatically place bets every 2 minutes.
 5. Monitor your bets and adjust settings manually when needed.
 
@@ -41,7 +67,9 @@ Automate your betting strategy on [Stake.com Crash game](https://stake.com/casin
 
 ## 🛠 Changelog
 
-- **Added MIT License*  
+- **v1.0**  
+- **Added MIT License**
+- **Added Stakecom-Crash-Bot.user.js project code to repo**
 
 ---
 
