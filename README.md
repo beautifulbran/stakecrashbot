@@ -41,7 +41,7 @@ Automate your betting strategy on [Stake.com Crash game](https://stake.com/casin
 
 ## 🛠 Changelog
 
-- **v1.0*  
+- **Added MIT License*  
 
 ---
 
