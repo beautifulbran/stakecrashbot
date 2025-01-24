@@ -45,7 +45,7 @@ If you prefer to install the script manually:
 2. Download the script file from GitHub:  
    👉 **[Stakecom-Crash-Bot.user.js](https://github.com/beautifulbran/stakecrashbot/blob/main/Stakecom-Crash-Bot.user.js)**
 
-3. Open the script file and click **"Install"** in your userscript manager.
+3. Copy the code from the .js file, add a new script in your userscript manager and paste it! 
 
 4. Navigate to the [Stake.com Crash Game](https://stake.com/casino/games/crash).
 
